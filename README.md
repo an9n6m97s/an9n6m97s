@@ -1,3 +1,11 @@
+<style>
+  .arrow::before {
+  content: "\2192"; /* Unicode value for right arrow */
+  margin-right: 0.5em;
+}
+</style>
+
+
 <h1 align="center">Hi 👋, I'm an9n6m97s</h1>
 <h3 align="center">A web developer</h3>
 <div align="center">
@@ -14,7 +22,7 @@ I look forward to collaborating and developing together outstanding web solution
 <section>
 <h2>Skills</h2>
 <ul>
-  <li>HTML5</li>
+  <li><span class="arrow">HTML5</li>
   <li>CSS3</li>
   <li>JavaScript (ES6+)</li>
   <li>React.js</li>
