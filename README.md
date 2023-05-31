@@ -7,7 +7,8 @@ At NETRUN, we focus on providing innovative digital solutions for our customers.
 
 If you are looking for a collaboration or a solution for your online needs, I invite you to contact me via the email address office@netrun.ro or via the phone number <a href="https://wa.me/40774910225" >+40 774 910 225</a>. I am at your disposal to discuss your projects and to find the best customized solutions.
 
-You can find more information about my experience and my portfolio on my personal LinkedIn profile: LinkedIn personal. If you are interested in learning more about the NETRUN company and the services we offer, you can access our LinkedIn company profile: LinkedIn business.
+You can find more information about my experience and my portfolio on my personal LinkedIn profile: <a href="https://www.linkedin.com/in/lucian-mihai-lup%C8%99%C4%83-696442277/">LinkedIn personal</a>. 
+<br>If you are interested in learning more about the NETRUN company and the services we offer, you can access our LinkedIn company profile: <a href="https://www.linkedin.com/company/netrun-web-services">LinkedIn business</a>.
 
 I look forward to collaborating and developing together outstanding web solutions to help you achieve your online goals!
 </div>
