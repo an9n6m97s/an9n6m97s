@@ -10,28 +10,28 @@ If you are looking for a collaboration or a solution for your online needs, I in
 You can find more information about my experience and my portfolio on my personal LinkedIn profile: LinkedIn personal. If you are interested in learning more about the NETRUN company and the services we offer, you can access our LinkedIn company profile: LinkedIn business.
 
 I look forward to collaborating and developing together outstanding web solutions to help you achieve your online goals!
-  
-  <section>
-  <h2>Skills</h2>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript (ES6+)</li>
-    <li>React.js</li>
-    <li>Node.js</li>
-    <li>Express.js</li>
-    <li>MySQL</li>
-    <li>MongoDB</li>
-    <li>RESTful APIs</li>
-    <li>Responsive Web Design</li>
-    <li>Version Control (Git)</li>
-    <li>Agile Development</li>
-    <li>UI/UX Design Principles</li>
-    <li>Cross-Browser Testing</li>
-    <li>Performance Optimization</li>
-    <li>Debugging and Troubleshooting</li>
-  </ul>
+</div>
+<section>
+<h2>Skills</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript (ES6+)</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+  <li>RESTful APIs</li>
+  <li>Responsive Web Design</li>
+  <li>Version Control (Git)</li>
+  <li>Agile Development</li>
+  <li>UI/UX Design Principles</li>
+  <li>Cross-Browser Testing</li>
+  <li>Performance Optimization</li>
+  <li>Debugging and Troubleshooting</li>
+</ul>
 </section>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an9n6m97s" alt="an9n6m97s" /></a> </p>
-</div>
+
