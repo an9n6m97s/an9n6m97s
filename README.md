@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm an9n6m97s</h1>
 <h3 align="center">A web developer</h3>
-<div style="text-align: center;">
+<div align="center">
 Numele meu este Lucian Mihai Lupșă și sunt un dezvoltator web pasionat, cu o vastă experiență în domeniul creării și dezvoltării aplicațiilor web. Sunt fondatorul și CEO-ul companiei NETRUN, o companie specializată în furnizarea de servicii web de înaltă calitate.
 
 La NETRUN, ne concentrăm pe oferirea soluțiilor digitale inovatoare pentru clienții noștri. De la dezvoltarea de site-uri web personalizate și aplicații web la servicii de optimizare SEO și marketing online, avem capacitatea de a transforma viziunea dumneavoastră în realitate.
