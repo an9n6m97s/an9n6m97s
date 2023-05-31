@@ -1,11 +1,3 @@
-<style>
-  .arrow::before {
-  content: "\2192"; /* Unicode value for right arrow */
-  margin-right: 0.5em;
-}
-</style>
-
-
 <h1 align="center">Hi 👋, I'm an9n6m97s</h1>
 <h3 align="center">A web developer</h3>
 <div align="center">
@@ -19,27 +11,13 @@ You can find more information about my experience and my portfolio on my persona
 
 I look forward to collaborating and developing together outstanding web solutions to help you achieve your online goals!
 </div>
-<section>
-<h2>Skills</h2>
-<ul>
-  <li><span class="arrow">HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript (ES6+)</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>MySQL</li>
-  <li>MongoDB</li>
-  <li>RESTful APIs</li>
-  <li>Responsive Web Design</li>
-  <li>Version Control (Git)</li>
-  <li>Agile Development</li>
-  <li>UI/UX Design Principles</li>
-  <li>Cross-Browser Testing</li>
-  <li>Performance Optimization</li>
-  <li>Debugging and Troubleshooting</li>
-</ul>
+<section align="center">
+<h2>💻 Skills 💻</h2>
+<h3>From NETRUN:</h3>
+<p>MySQL · WHMCS · Search Engine Optimization (SEO) · PHP · PhpMyAdmin · Web Development · HTML5 · Bootstrap · CSS · WordPress · JavaScript</pa>
+<h3>From Digital Nation:</h3>
+<p>PHP · PhpMyAdmin · HTML · Web Development · HTML5 · Bootstrap · CSS · WordPress · JavaScript</p>
 </section>
-
+<br><br><br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an9n6m97s" alt="an9n6m97s" /></a> </p>
 
