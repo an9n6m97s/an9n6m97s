@@ -10,5 +10,6 @@ Dacă sunteți în căutarea unei colaborări sau a unei soluții pentru nevoile
 Puteți găsi mai multe informații despre experiența mea și portofoliul meu pe profilul meu personal LinkedIn: LinkedIn personal. Dacă sunteți interesat de a afla mai multe despre compania NETRUN și serviciile pe care le oferim, puteți accesa profilul nostru de companie LinkedIn: LinkedIn business.
 
 Aștept cu nerăbdare să colaborăm și să dezvoltăm împreună soluții web remarcabile pentru a vă ajuta să vă atingeți obiectivele online!
-</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an9n6m97s" alt="an9n6m97s" /></a> </p>
+</div>
