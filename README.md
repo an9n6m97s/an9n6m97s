@@ -14,7 +14,7 @@ I look forward to collaborating and developing together outstanding web solution
 </div>
 <section align="center">
 <h2>💻 Skills 💻</h2>
-<h3>From NETRUN:</h3>
+<h3>From EssenByte:</h3>
 <p>MySQL · WHMCS · Search Engine Optimization (SEO) · PHP · PhpMyAdmin · Web Development · HTML5 · Bootstrap · CSS · WordPress · JavaScript</pa>
 <h3>From Digital Nation:</h3>
 <p>PHP · PhpMyAdmin · HTML · Web Development · HTML5 · Bootstrap · CSS · WordPress · JavaScript</p>
