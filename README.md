@@ -1,132 +1,177 @@
-<!-- GitHub Profile README | github.com/an9n6m97s -->
+<!--
+  L U C I A N - M I H A I   L U P Ș Ă
+  Personal GitHub profile. Engineered, not templated.
+  Assets are self-contained SVG files located in ./assets/.
+-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=185&amp;color=0:070A10,55:101F3B,100:2563EB&amp;section=header&amp;text=Lucian-Mihai%20Lup%C8%99%C4%83&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Engineering%20%7C%20Infrastructure%20%7C%20Robotics&amp;descAlignY=62&amp;descSize=16&amp;animation=fadeIn" width="100%" alt="Lucian-Mihai Lupșă — Software Engineering, Infrastructure, Robotics" />
+  <img src="./assets/hero.svg" width="100%" alt="Lucian-Mihai Lupșă — I build systems that ship and robots that compete." />
 
-  <h3>Engineering what comes next.</h3>
+  <br />
 
-  <p>
-    I turn complex ideas into real-world systems.<br />
-    <strong>From software architecture to competition-ready robotics.</strong>
-  </p>
+  <a href="https://essenbyte.com"><img src="https://img.shields.io/badge/FOUNDER-EssenByte%20Solutions-3779F5?style=for-the-badge&labelColor=0B1525" alt="Founder of EssenByte Solutions" /></a>
+  <a href="https://scoreengine.online"><img src="https://img.shields.io/badge/CREATING-ScoreEngine-47A9FF?style=for-the-badge&labelColor=0B1525" alt="Creating ScoreEngine" /></a>
+  <a href="mailto:office@essenbyte.com"><img src="https://img.shields.io/badge/CONNECT-Email-1D4775?style=for-the-badge&labelColor=0B1525" alt="Contact by email" /></a>
 
-  <a href="https://essenbyte.com"><img alt="EssenByte Solutions" src="https://img.shields.io/badge/Founder%20%26%20CEO-EssenByte%20Solutions-2563EB?style=for-the-badge&amp;labelColor=0C1220" /></a>
-  <a href="https://github.com/an9n6m97s"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-an9n6m97s-151B2D?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="mailto:office@essenbyte.com"><img alt="Email" src="https://img.shields.io/badge/Let's%20Connect-Email-0F6CBD?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0C1220" /></a>
+  <br /><br />
+
+  <b>Software engineering &nbsp;·&nbsp; System architecture &nbsp;·&nbsp; Infrastructure &nbsp;·&nbsp; Robotics</b>
+
+  <br /><br />
+
+  <a href="#the-person-behind-the-code">About</a> &nbsp; • &nbsp;
+  <a href="#selected-work">Projects</a> &nbsp; • &nbsp;
+  <a href="#robotics-and-the-real-world">Robotics</a> &nbsp; • &nbsp;
+  <a href="#technologies-i-work-with">Tech stack</a> &nbsp; • &nbsp;
+  <a href="#lets-build-something">Contact</a>
 </div>
 
----
+<br />
 
-### `whoami`
+## The person behind the code
 
-I'm **Lucian-Mihai Lupșă**, a developer, robotics enthusiast, and the **Founder & CEO of [EssenByte Solutions](https://essenbyte.com)**.
+I'm **Lucian-Mihai Lupșă** — the founder of **[EssenByte Solutions](https://essenbyte.com)**, a hands-on software builder, and a Robotics student at **POLITEHNICA Bucharest**.
 
-I work across the entire engineering stack: **product architecture, web applications, APIs, secure infrastructure, embedded systems, and robotics**. I enjoy the challenging parts — designing the system, building it from scratch, and making it reliable outside the development environment.
+I don't just put interfaces on screens. I design **how the whole thing works**: the product, its architecture, backend logic, data flows, authentication, infrastructure, deployment and ongoing operation. And when the problem moves into the physical world, I work with **electronics, embedded control, mechanical design and robots**.
 
-I'm also studying **Robotics (English)** at the **National University of Science and Technology POLITEHNICA Bucharest**.
+**My favorite challenges are the ones that demand more than knowing a programming language.** They require connecting different engineering disciplines and owning the result from idea to reality.
 
-> **My approach:** Think in systems. Build with purpose. Engineer for the real world.
+> **Build for reality. Engineer for reliability. Never stop at “it works on my machine.”**
 
-### `currently_building`
+<p align="center"><img src="./assets/workflow.svg" width="100%" alt="Engineering workflow: define, architect, build, secure, deploy, iterate." /></p>
 
-```text
-[01] PRODUCT ENGINEERING   → ScoreEngine — competition management & real-time operations
-[02] DIGITAL INFRASTRUCTURE → EssenByte — software platforms, hosting & security
-[03] ROBOTICS              → Sumo robots, embedded control & mechanical design
-[04] DIGITAL COMMERCE      → VoxelWorks — personalized manufacturing & e-commerce
-```
-
-### `selected_work`
+## What I actually do
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://scoreengine.online">⚡ ScoreEngine</a></h3>
-      <p>A competition-management platform bringing registration, organization, refereeing and real-time event workflows into one ecosystem.</p>
-      <p><code>Product Architecture</code> <code>Full-stack</code> <code>Real-time</code></p>
+    <td width="33%" valign="top">
+      <h3><code>01</code> — Software</h3>
+      <p>Design and build <strong>full-stack web platforms</strong>, APIs, role-based applications and real-time workflows. I care about clean architecture, maintainability, useful UX and the decisions users never have to think about.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://essenbyte.com">🌐 EssenByte Solutions</a></h3>
-      <p>My technology brand for custom software, secure infrastructure and scalable digital products — from first concept to deployment.</p>
-      <p><code>Web Engineering</code> <code>Infrastructure</code> <code>Security</code></p>
+    <td width="33%" valign="top">
+      <h3><code>02</code> — Infrastructure</h3>
+      <p>Operate <strong>Linux servers, containers, databases and production services</strong>. I work with deployment, authentication, security hardening, availability, logging and the unglamorous details that make software dependable.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://challenge.relativity.ro">🤖 Relativity Robotics Challenge</a></h3>
-      <p>An international robotics competition with its own digital registration and competition-management ecosystem.</p>
-      <p><code>Robotics</code> <code>Event Systems</code> <code>Automation</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://voxelworks.essenbyte.com">🧩 VoxelWorks</a></h3>
-      <p>A personalized manufacturing project combining 3D printing, laser engraving and custom e-commerce experiences.</p>
-      <p><code>E-commerce</code> <code>3D Printing</code> <code>Product Design</code></p>
+    <td width="33%" valign="top">
+      <h3><code>03</code> — Robotics</h3>
+      <p>Engineer <strong>autonomous competition robots</strong> through CAD, fabrication, electronics, motor control, sensors and embedded software. Test in a real arena, discover what fails, improve, repeat.</p>
     </td>
   </tr>
 </table>
 
-### `toolbox`
+## Selected work
 
-**Languages & web development**
+<!-- Live project links, not fictional demo repositories. -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://scoreengine.online">ScoreEngine</a></h3>
+      <p><strong>Competition software, built as an ecosystem.</strong></p>
+      <p>A platform I'm developing for managing the operational complexity behind real competitions — from registrations and teams to refereeing, event workflows and real-time coordination.</p>
+      <p><code>Product architecture</code> <code>Full-stack</code> <code>Real-time systems</code></p>
+      <p><strong><a href="https://scoreengine.online">Explore ScoreEngine →</a></strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ <a href="https://essenbyte.com">EssenByte Solutions</a></h3>
+      <p><strong>My engineering brand. Built around execution.</strong></p>
+      <p>Custom websites and applications, managed hosting, infrastructure and security. The work goes beyond writing code: I design, build, deploy and maintain the systems behind the product.</p>
+      <p><code>Software engineering</code> <code>Linux / Docker</code> <code>Security</code></p>
+      <p><strong><a href="https://essenbyte.com">Explore EssenByte →</a></strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://challenge.relativity.ro">Relativity Robotics Challenge</a></h3>
+      <p><strong>Engineering behind an international robotics event.</strong></p>
+      <p>I contribute to its technical ecosystem, including participant workflows and the digital systems supporting competition operations — software that must make sense when real people depend on it.</p>
+      <p><code>Event systems</code> <code>Competition tech</code> <code>Operations</code></p>
+      <p><strong><a href="https://challenge.relativity.ro">Explore RRC →</a></strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⬡ <a href="https://voxelworks.ro">VoxelWorks</a></h3>
+      <p><strong>Where code meets digital manufacturing.</strong></p>
+      <p>A personalized-products project bringing together e-commerce, laser engraving, 3D printing and product customization. Building the software is only half the challenge: the manufacturing workflow matters too.</p>
+      <p><code>E-commerce</code> <code>3D printing</code> <code>Laser engraving</code></p>
+      <p><strong><a href="https://voxelworks.ro">Explore VoxelWorks →</a></strong></p>
+    </td>
+  </tr>
+</table>
+
+## Robotics and the real world
+
+Some software is tested with unit tests. **My robots get tested against other robots.**
+
+I design and build **Mega Sumo and Mini Sumo** robots, working across mechanical design, 3D printing, sensor integration, electronics, motor drivers and embedded control. That hands-on work makes me a better software engineer: real hardware has timing constraints, imperfect data and zero patience for fragile assumptions.
+
+- **International competition experience** in autonomous robotics, including **Mega Sumo podium results in Rome and Kraków**.
+- **Embedded development** with Raspberry Pi Pico, MicroPython, motor controllers, sensors and control logic.
+- **Mechanical and electronic integration:** CAD, prototyping, custom hardware, assembly, testing and continuous redesign.
+
+**[See my robotics portfolio →](https://robotics.essenbyte.com)**
+
+## Technologies I work with
+
+<!-- Focused list of tools used across active or ongoing engineering work. -->
+
+**Languages and product development**
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-0C1220?style=flat-square&amp;logo=python&amp;logoColor=3776AB" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-0C1220?style=flat-square&amp;logo=php&amp;logoColor=777BB4" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0C1220?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" />
-  <img alt="C" src="https://img.shields.io/badge/C-0C1220?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-0C1220?style=flat-square&amp;logo=cplusplus&amp;logoColor=00599C" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0C1220?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0C1220?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0C1220?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Python-0B1627?style=flat-square&logo=python&logoColor=64A9F7" alt="Python" />
+<img src="https://img.shields.io/badge/PHP-0B1627?style=flat-square&logo=php&logoColor=89A3E8" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-0B1627?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%20%2F%20C++-0B1627?style=flat-square&logo=cplusplus&logoColor=68A7FE" alt="C and C++" />
+<img src="https://img.shields.io/badge/MicroPython-0B1627?style=flat-square&logo=python&logoColor=6DC8FB" alt="MicroPython" />
+<img src="https://img.shields.io/badge/Next.js-0B1627?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
 </p>
 
-**Backend, data & infrastructure**
+**Backend, operations and infrastructure**
 
 <p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0C1220?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0C1220?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-0C1220?style=flat-square&amp;logo=mariadb&amp;logoColor=5D87A1" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-0C1220?style=flat-square&amp;logo=redis&amp;logoColor=FF4438" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-0C1220?style=flat-square&amp;logo=cloudflare&amp;logoColor=F38020" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-0C1220?style=flat-square&amp;logo=git&amp;logoColor=F05032" />
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-0C1220?style=flat-square&amp;logo=nginx&amp;logoColor=009639" />
+<img src="https://img.shields.io/badge/Linux-0B1627?style=flat-square&logo=linux&logoColor=F3CC64" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-0B1627?style=flat-square&logo=docker&logoColor=329EF1" alt="Docker" />
+<img src="https://img.shields.io/badge/MariaDB-0B1627?style=flat-square&logo=mariadb&logoColor=C7AA8B" alt="MariaDB" />
+<img src="https://img.shields.io/badge/Redis-0B1627?style=flat-square&logo=redis&logoColor=F65A5A" alt="Redis" />
+<img src="https://img.shields.io/badge/Cloudflare-0B1627?style=flat-square&logo=cloudflare&logoColor=F1A752" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Nginx-0B1627?style=flat-square&logo=nginx&logoColor=59C388" alt="Nginx" />
+<img src="https://img.shields.io/badge/WebSockets-0B1627?style=flat-square&logo=socketdotio&logoColor=8BD4FF" alt="WebSockets" />
 </p>
 
-**Robotics & hardware**
+**Hardware and prototyping**
 
 <p>
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-0C1220?style=flat-square&amp;logo=raspberrypi&amp;logoColor=A22846" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-0C1220?style=flat-square&amp;logo=arduino&amp;logoColor=00878F" />
-  <img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-0C1220?style=flat-square&amp;logo=python&amp;logoColor=FFFFFF" />
-  <img alt="3D Printing" src="https://img.shields.io/badge/3D%20Printing-0C1220?style=flat-square&amp;logo=printables&amp;logoColor=FB6834" />
-  <img alt="Embedded Systems" src="https://img.shields.io/badge/Embedded%20Systems-0C1220?style=flat-square&amp;logo=espressif&amp;logoColor=E7352C" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-0B1627?style=flat-square&logo=raspberrypi&logoColor=EE6B8D" alt="Raspberry Pi Pico" />
+<img src="https://img.shields.io/badge/Arduino-0B1627?style=flat-square&logo=arduino&logoColor=55CAD0" alt="Arduino" />
+<img src="https://img.shields.io/badge/Embedded%20systems-0B1627?style=flat-square&logoColor=FFFFFF" alt="Embedded systems" />
+<img src="https://img.shields.io/badge/CAD%20%2B%20PCB-0B1627?style=flat-square&logoColor=FFFFFF" alt="CAD and PCB" />
+<img src="https://img.shields.io/badge/3D%20printing-0B1627?style=flat-square&logoColor=FFFFFF" alt="3D printing" />
 </p>
 
-### `engineering_principles`
+## How I think about engineering
 
-- **Build end-to-end.** From the first design decision to production deployment.
-- **Security is architecture.** Not a feature added at the end.
-- **Optimize for reliability.** Systems should survive real users, real workloads and real-world constraints.
-- **Keep learning.** Software, electronics and mechanics are more powerful together.
+```text
+A polished UI is good.       A reliable product behind it is better.
+A clever algorithm is good.  A robot that wins in the arena is better.
+A successful deployment     means nothing without security and operations.
+A great idea                 deserves to become a working system.
+```
 
-### `github_activity`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an9n6m97s&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=60A5FA&amp;text_color=CBD5E1&amp;icon_color=3B82F6&amp;rank_icon=github" alt="GitHub activity statistics for an9n6m97s" />
-</div>
-
-<sub>Activity statistics are provided by a third-party service and may be temporarily unavailable.</sub>
-
----
-
-<div align="center">
-  <h3>Have an idea worth building?</h3>
-  <p>Let's turn it into something real.</p>
-  <a href="https://essenbyte.com"><img alt="Website" src="https://img.shields.io/badge/Website-essenbyte.com-2563EB?style=for-the-badge&amp;labelColor=0C1220" /></a>
-  <a href="https://www.linkedin.com/in/lucian-mihai-lup%C8%99%C4%83-696442277/"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0C1220" /></a>
-  <a href="mailto:office@essenbyte.com"><img alt="Contact by email" src="https://img.shields.io/badge/Contact-Email-2563EB?style=for-the-badge&amp;labelColor=0C1220" /></a>
-  <br /><br />
-  <sub><strong>You imagine it, we build it.</strong> — EssenByte Solutions</sub>
+<details>
+  <summary><b>↳ View GitHub activity</b></summary>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;color=0:070A10,55:101F3B,100:2563EB&amp;section=footer" width="100%" alt="" />
+  <div align="center">
+    <img alt="GitHub statistics for an9n6m97s (third-party widget)" src="https://github-readme-stats.vercel.app/api?username=an9n6m97s&show_icons=true&hide_border=true&bg_color=0B1525&title_color=6CB8FF&text_color=CBDDF2&icon_color=4A93F9" />
+  </div>
+  <p><sub>Stats are provided by an external service and may occasionally be unavailable. Private work is not fully represented by public GitHub statistics.</sub></p>
+</details>
+
+## Let's build something
+
+I'm interested in **challenging software projects, dependable infrastructure and robotics that solve real engineering problems**. If your idea needs someone who can think beyond a single layer of the stack, let's talk.
+
+<div align="center">
+  <a href="https://essenbyte.com"><img src="https://img.shields.io/badge/WEBSITE-essenbyte.com-367BF5?style=for-the-badge&labelColor=0A1424" alt="EssenByte website" /></a>
+  <a href="mailto:office@essenbyte.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20talk-468EEB?style=for-the-badge&labelColor=0A1424" alt="Contact by email" /></a>
+  <a href="https://www.linkedin.com/in/lucian-mihai-lup%C8%99%C4%83-696442277/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-2866BD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1424" alt="LinkedIn" /></a>
+  <br /><br />
+  <img src="./assets/footer.svg" width="100%" alt="Make it real. You imagine it, we build it. EssenByte Solutions." />
 </div>
