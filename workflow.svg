@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="266" viewBox="0 0 1400 266" role="img" aria-label="My engineering workflow: conceive, architect, build, secure, deploy, iterate.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#07101E"/><stop offset=".5" stop-color="#0C1C34"/><stop offset="1" stop-color="#07101E"/></linearGradient><linearGradient id="blue" x1="0" x2="1"><stop stop-color="#336BF2"/><stop offset=".52" stop-color="#6EDCFF"/><stop offset="1" stop-color="#336BF2"/></linearGradient><style>.s{font-family:Inter,'Segoe UI',Arial,sans-serif}.m{font-family:ui-monospace,Consolas,monospace}@keyframes flowing{to{stroke-dashoffset:-70}}.flow{stroke-dasharray:5 13;animation:flowing 5s linear infinite}</style></defs>
+<rect width="1400" height="266" rx="19" fill="url(#bg)"/><rect width="1398" height="264" x="1" y="1" rx="18" fill="none" stroke="#27578C" stroke-opacity=".55"/>
+<text x="55" y="61" class="m" font-size="15" letter-spacing="3" fill="#68B8FF">FROM THE FIRST IDEA TO THE SYSTEM RUNNING IN PRODUCTION</text>
+<text x="55" y="109" class="s" font-size="31" font-weight="800" fill="#F0F7FF">I work across the entire engineering lifecycle.</text>
+<path d="M90 174H1310" stroke="#294D7E" stroke-width="4" stroke-linecap="round"/>
+<path class="flow" d="M90 174H1310" stroke="url(#blue)" stroke-width="4" stroke-linecap="round"/>
+<g class="m" font-size="15" fill="#C9E1FC" text-anchor="middle"><text x="122" y="230">DEFINE</text><text x="353" y="230">ARCHITECT</text><text x="584" y="230">BUILD</text><text x="816" y="230">SECURE</text><text x="1047" y="230">DEPLOY</text><text x="1274" y="230">ITERATE</text></g>
+<g fill="#08172A" stroke="#61BCFF" stroke-width="3"><circle cx="122" cy="174" r="12"/><circle cx="353" cy="174" r="12"/><circle cx="584" cy="174" r="12"/><circle cx="816" cy="174" r="12"/><circle cx="1047" cy="174" r="12"/><circle cx="1274" cy="174" r="12"/></g><g fill="#A0DCFF"><circle cx="122" cy="174" r="4"/><circle cx="353" cy="174" r="4"/><circle cx="584" cy="174" r="4"/><circle cx="816" cy="174" r="4"/><circle cx="1047" cy="174" r="4"/><circle cx="1274" cy="174" r="4"/></g>
+</svg>

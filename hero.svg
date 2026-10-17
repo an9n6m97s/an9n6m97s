@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="510" viewBox="0 0 1400 510" role="img" aria-label="Lucian-Mihai Lupșă. Software systems, secure infrastructure, competitive robotics.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060B15"/><stop offset=".56" stop-color="#0A152A"/><stop offset="1" stop-color="#040914"/></linearGradient>
+  <linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFFFFF"/><stop offset=".69" stop-color="#EDF6FF"/><stop offset="1" stop-color="#7EBDFF"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2981FF"/><stop offset="1" stop-color="#6EE7FF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#1B71FF" stop-opacity=".29"/><stop offset="1" stop-color="#1B71FF" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7AA3D7" stroke-opacity=".065" stroke-width="1"/></pattern>
+  <pattern id="dots" width="21" height="21" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#66A3EA" opacity=".18"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="13"/></filter>
+  <clipPath id="clip"><rect width="1400" height="510" rx="22"/></clipPath>
+  <style>
+  .mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
+  .sans{font-family:Inter,'Segoe UI',Arial,sans-serif}
+  @keyframes pulsing {0%,100%{opacity:.36}50%{opacity:1}}
+  @keyframes travel{0%{stroke-dashoffset:260}100%{stroke-dashoffset:0}}
+  @keyframes orbit {0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+  .pulse{animation:pulsing 3s ease-in-out infinite}
+  .dash{stroke-dasharray:14 16;animation:travel 8s linear infinite}
+  </style>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1400" height="510" fill="url(#bg)"/><rect width="1400" height="510" fill="url(#grid)"/>
+  <circle cx="1120" cy="245" r="380" fill="url(#glow)"/><circle cx="1205" cy="250" r="230" fill="url(#dots)"/>
+  <rect x="0" y="0" width="1400" height="5" fill="url(#accent)"/>
+  <path d="M0 438 H1400" stroke="#2C4D78" stroke-opacity=".5"/>
+  <!-- left identity -->
+  <rect x="60" y="49" width="46" height="43" rx="10" fill="#132A4E" stroke="#3B83EB" stroke-opacity=".8"/>
+  <text x="83" y="77" class="mono" font-size="17" font-weight="800" text-anchor="middle" fill="#D9EEFF">LM</text>
+  <text x="124" y="68" class="mono" letter-spacing="3" font-size="13" font-weight="700" fill="#65B3FF">PERSONAL ENGINEERING PROFILE</text>
+  <text x="124" y="86" class="mono" letter-spacing="2" font-size="10" fill="#8CA9CA">SOFTWARE  /  SYSTEMS  /  MACHINES</text>
+  <text x="59" y="185" class="sans" font-size="67" font-weight="800" letter-spacing="-2" fill="url(#title)">LUCIAN-MIHAI</text>
+  <text x="58" y="268" class="sans" font-size="92" font-weight="900" letter-spacing="-3" fill="url(#title)">LUPȘĂ<tspan fill="#418EFF">.</tspan></text>
+  <rect x="60" y="299" width="48" height="4" rx="2" fill="#4AA5FF"/><rect x="118" y="299" width="170" height="4" rx="2" fill="#193C68"/>
+  <text x="59" y="336" class="sans" font-size="27" font-weight="700" fill="#F4F8FF">I BUILD SYSTEMS THAT SHIP.</text>
+  <text x="59" y="370" class="sans" font-size="27" font-weight="700" fill="#7EC6FF">AND ROBOTS THAT COMPETE.</text>
+  <text x="59" y="410" class="mono" font-size="13" letter-spacing=".5" fill="#A3BBD4">Founder @ EssenByte Solutions  //  Robotics &amp; software engineering</text>
+  <!-- tech mech right -->
+  <g opacity=".9">
+    <circle cx="1119" cy="243" r="176" fill="none" stroke="#264F85" stroke-width="1.3"/>
+    <circle cx="1119" cy="243" r="139" fill="none" stroke="#3A75B4" stroke-width="1" stroke-dasharray="5 12"/>
+    <circle cx="1119" cy="243" r="98" fill="none" stroke="#2C5A91" stroke-width="1"/>
+    <circle cx="1119" cy="243" r="212" fill="none" stroke="#2C4E7B" stroke-width="1" stroke-dasharray="2 14"/>
+    <path d="M895 243h450M1119 26v415" stroke="#24456F" stroke-width="1" opacity=".65"/>
+    <path d="M961 343 L1049 284 L1113 200 L1198 232 L1249 151" fill="none" stroke="#122C4E" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M961 343 L1049 284 L1113 200 L1198 232 L1249 151" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1195 234l20 43m-20-43-22 44" stroke="#72BDFF" stroke-width="6" stroke-linecap="round"/>
+    <path d="M1248 150 l19 -36 m-18 37 -22 -36" stroke="#8BD5FF" stroke-width="7" stroke-linecap="round"/>
+    <rect x="925" y="344" width="76" height="37" rx="7" fill="#193B67" stroke="#58A9FA" stroke-width="1.5"/>
+    <rect x="940" y="377" width="46" height="12" rx="2" fill="#325C8B"/>
+    <g fill="#081628" stroke="#A1D8FF" stroke-width="4"><circle cx="961" cy="343" r="14"/><circle cx="1049" cy="284" r="17"/><circle cx="1113" cy="200" r="19"/><circle cx="1198" cy="232" r="13"/><circle cx="1249" cy="151" r="12"/></g>
+    <g fill="#67C6FF"><circle cx="961" cy="343" r="4"/><circle cx="1049" cy="284" r="5"/><circle cx="1113" cy="200" r="6"/><circle cx="1198" cy="232" r="4"/><circle cx="1249" cy="151" r="4"/></g>
+    <path class="dash" d="M1119 67a176 176 0 0 1 176 176" fill="none" stroke="#62BFFF" stroke-opacity=".75" stroke-width="2"/>
+    <circle class="pulse" cx="1295" cy="243" r="8" fill="#68DCFF"/>
+    <g class="mono" font-size="12" letter-spacing="2" fill="#8EC5FA"><text x="1068" y="68">MECH / 01</text><text x="1075" y="427">CONTROL LOOP</text><text x="922" y="166">SENSORS</text></g>
+    <g fill="none" stroke="#306A9D" stroke-width="1.5"><path d="M955 170H990l40 32"/><circle cx="955" cy="170" r="3" fill="#71C7FF"/><path d="M1223 385h52l26 -25"/><circle cx="1223" cy="385" r="3" fill="#71C7FF"/></g>
+  </g>
+  <!-- footer ribbon -->
+  <rect x="0" y="441" width="1400" height="69" fill="#07111F" fill-opacity=".92"/>
+  <g class="mono" letter-spacing="2.1" font-size="13" fill="#A6C4E9">
+    <text x="61" y="484">01 / PRODUCT ENGINEERING</text>
+    <text x="470" y="484">02 / SECURE INFRASTRUCTURE</text>
+    <text x="936" y="484">03 / COMPETITIVE ROBOTICS</text>
+  </g>
+  <g stroke="#28518A"><path d="M429 462v26"/><path d="M886 462v26"/></g>
+</g>
+<rect x=".8" y=".8" width="1398.4" height="508.4" rx="22" fill="none" stroke="#3673BF" stroke-opacity=".35" stroke-width="1.5"/>
+</svg>
