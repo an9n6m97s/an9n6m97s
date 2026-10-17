@@ -5,25 +5,26 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Lucian-Mihai Lupșă — I build systems that ship and robots that compete." />
+  <img src="./hero.svg" width="100%" alt="Lucian-Mihai Lupșă — I build systems that ship and robots that compete." />
 
   <br />
 
-  <a href="https://essenbyte.com"><img src="https://img.shields.io/badge/FOUNDER-EssenByte%20Solutions-3779F5?style=for-the-badge&labelColor=0B1525" alt="Founder of EssenByte Solutions" /></a>
-  <a href="https://scoreengine.online"><img src="https://img.shields.io/badge/CREATING-ScoreEngine-47A9FF?style=for-the-badge&labelColor=0B1525" alt="Creating ScoreEngine" /></a>
-  <a href="mailto:office@essenbyte.com"><img src="https://img.shields.io/badge/CONNECT-Email-1D4775?style=for-the-badge&labelColor=0B1525" alt="Contact by email" /></a>
+<a href="https://essenbyte.com"><img src="https://img.shields.io/badge/FOUNDER-EssenByte%20Solutions-3779F5?style=for-the-badge&labelColor=0B1525" alt="Founder of EssenByte Solutions" /></a>
+<a href="https://scoreengine.online"><img src="https://img.shields.io/badge/CREATING-ScoreEngine-47A9FF?style=for-the-badge&labelColor=0B1525" alt="Creating ScoreEngine" /></a>
+<a href="mailto:office@essenbyte.com"><img src="https://img.shields.io/badge/CONNECT-Email-1D4775?style=for-the-badge&labelColor=0B1525" alt="Contact by email" /></a>
 
-  <br /><br />
+<br /><br />
 
-  <b>Software engineering &nbsp;·&nbsp; System architecture &nbsp;·&nbsp; Infrastructure &nbsp;·&nbsp; Robotics</b>
+<b>Software engineering &nbsp;·&nbsp; System architecture &nbsp;·&nbsp; Infrastructure &nbsp;·&nbsp; Robotics</b>
 
-  <br /><br />
+<br /><br />
 
-  <a href="#the-person-behind-the-code">About</a> &nbsp; • &nbsp;
-  <a href="#selected-work">Projects</a> &nbsp; • &nbsp;
-  <a href="#robotics-and-the-real-world">Robotics</a> &nbsp; • &nbsp;
-  <a href="#technologies-i-work-with">Tech stack</a> &nbsp; • &nbsp;
-  <a href="#lets-build-something">Contact</a>
+<a href="#the-person-behind-the-code">About</a> &nbsp; • &nbsp;
+<a href="#selected-work">Projects</a> &nbsp; • &nbsp;
+<a href="#robotics-and-the-real-world">Robotics</a> &nbsp; • &nbsp;
+<a href="#technologies-i-work-with">Tech stack</a> &nbsp; • &nbsp;
+<a href="#lets-build-something">Contact</a>
+
 </div>
 
 <br />
@@ -38,7 +39,7 @@ I don't just put interfaces on screens. I design **how the whole thing works**: 
 
 > **Build for reality. Engineer for reliability. Never stop at “it works on my machine.”**
 
-<p align="center"><img src="./assets/workflow.svg" width="100%" alt="Engineering workflow: define, architect, build, secure, deploy, iterate." /></p>
+<p align="center"><img src="./workflow.svg" width="100%" alt="Engineering workflow: define, architect, build, secure, deploy, iterate." /></p>
 
 ## What I actually do
 
@@ -173,5 +174,5 @@ I'm interested in **challenging software projects, dependable infrastructure and
   <a href="mailto:office@essenbyte.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20talk-468EEB?style=for-the-badge&labelColor=0A1424" alt="Contact by email" /></a>
   <a href="https://www.linkedin.com/in/lucian-mihai-lup%C8%99%C4%83-696442277/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-2866BD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1424" alt="LinkedIn" /></a>
   <br /><br />
-  <img src="./assets/footer.svg" width="100%" alt="Make it real. You imagine it, we build it. EssenByte Solutions." />
+  <img src="./footer.svg" width="100%" alt="Make it real. You imagine it, we build it. EssenByte Solutions." />
 </div>
